@@ -1,2 +1,2 @@
-# UCAS-COURSE-Assembly_Language
-[UCAS COURSE]  Assembly Language by 肖俊华
+中国科学院大学 肖俊华 汇编语言
+包括每次的作业和两次大作业
